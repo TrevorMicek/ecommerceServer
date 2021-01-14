@@ -1,0 +1,36 @@
+[
+  {
+    "gloves": {
+      "one": {
+        "id": "GLO001",
+        "name": "gloveOne",
+        "price": 20
+      },
+      "two": {
+        "id": "GLO002",
+        "name": "gloveTwo",
+        "price": 45
+      },
+      "three": {
+        "id": "GLO003",
+        "name": "glovethree",
+        "price": 35
+      },
+      "four": {
+        "id": "GLO004",
+        "name": "gloveFour",
+        "price": 45
+      },
+      "five": {
+        "id": "GLO005",
+        "name": "gloveFive",
+        "price": 25
+      },
+      "six": {
+        "id": "GLO006",
+        "name": "gloveSix",
+        "price": 55
+      }
+    }
+  }
+]

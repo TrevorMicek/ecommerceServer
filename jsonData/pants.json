@@ -1,0 +1,36 @@
+[
+  {
+    "pants": {
+      "one": {
+        "id": "PAN001",
+        "name": "pantsOne",
+        "price": 35
+      },
+      "two": {
+        "id": "PAN002",
+        "name": "pantsTwo",
+        "price": 45
+      },
+      "three": {
+        "id": "PAN003",
+        "name": "pantsThree",
+        "price": 60
+      },
+      "four": {
+        "id": "PAN004",
+        "name": "pantsFour",
+        "price": 25
+      },
+      "five": {
+        "id": "PAN005",
+        "name": "pantsFive",
+        "price": 25
+      },
+      "six": {
+        "id": "PAN006",
+        "name": "pantsSix",
+        "price": 50
+      }
+    }
+  }
+]

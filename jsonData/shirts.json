@@ -1,0 +1,36 @@
+[
+  {
+    "shirts": {
+      "one": {
+        "id": "SHI001",
+        "name": "shirtOne",
+        "price": 25
+      },
+      "two": {
+        "id": "SHI002",
+        "name": "shirtTwo",
+        "price": 35
+      },
+      "three": {
+        "id": "SHI003",
+        "name": "shirtThree",
+        "price": 50
+      },
+      "four": {
+        "id": "SHI004",
+        "name": "shirtFour",
+        "price": 20
+      },
+      "five": {
+        "id": "SHI005",
+        "name": "shirtFive",
+        "price": 25
+      },
+      "six": {
+        "id": "SHI006",
+        "name": "shirtSix",
+        "price": 30
+      }
+    }
+  }
+]

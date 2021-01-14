@@ -1,0 +1,36 @@
+[
+  {
+    "hats": {
+      "one": {
+        "id": "HAT001",
+        "name": "hatOne",
+        "price": 35
+      },
+      "two": {
+        "id": "HAT002",
+        "name": "hatTwo",
+        "price": 45
+      },
+      "three": {
+        "id": "HAT003",
+        "name": "hatthree",
+        "price": 60
+      },
+      "four": {
+        "id": "HAT004",
+        "name": "hatFour",
+        "price": 25
+      },
+      "five": {
+        "id": "HAT005",
+        "name": "hatFive",
+        "price": 25
+      },
+      "six": {
+        "id": "HAT006",
+        "name": "hatSix",
+        "price": 50
+      }
+    }
+  }
+]

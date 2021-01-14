@@ -1,0 +1,36 @@
+[
+  {
+    "jewelry": {
+      "one": {
+        "id": "JEW001",
+        "name": "jewelOne",
+        "price": 70
+      },
+      "two": {
+        "id": "JEW002",
+        "name": "jewelTwo",
+        "price": 45
+      },
+      "three": {
+        "id": "JEW003",
+        "name": "jewelthree",
+        "price": 60
+      },
+      "four": {
+        "id": "JEW004",
+        "name": "jewelFour",
+        "price": 45
+      },
+      "five": {
+        "id": "JEW005",
+        "name": "jewelFive",
+        "price": 75
+      },
+      "six": {
+        "id": "JEW006",
+        "name": "jewelSix",
+        "price": 100
+      }
+    }
+  }
+]

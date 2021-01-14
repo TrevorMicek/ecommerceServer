@@ -1,0 +1,36 @@
+[
+  {
+    "shoes": {
+      "one": {
+        "id": "SHO001",
+        "name": "shoeOne",
+        "price": 100
+      },
+      "two": {
+        "id": "SHO002",
+        "name": "shoeTwo",
+        "price": 75
+      },
+      "three": {
+        "id": "SHO003",
+        "name": "shoeThree",
+        "price": 100
+      },
+      "four": {
+        "id": "SHO004",
+        "name": "shoeFour",
+        "price": 50
+      },
+      "five": {
+        "id": "SHO005",
+        "name": "shoeFive",
+        "price": 150
+      },
+      "six": {
+        "id": "SHO006",
+        "name": "shoeSix",
+        "price": 50
+      }
+    }
+  }
+]
